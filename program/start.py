@@ -91,7 +91,7 @@ async def start_(c: Client, message: Message):
 
 ☞ I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ.
 
-» Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :- [🍻ᯓ𝐌 𝚫 𝐇 𝐈ˢ ͪᵘ ᷜˡ ⷶ™🇮🇳](t.me/official_pro_xD).
+» Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :- [🔥•♡⁣⃝𝗦𝚮꯭𝗜🅅__●⃭⃖🔥](t.me/ll_SABKA_BHAI_KILLER_ll).
 """,
         reply_markup=InlineKeyboardMarkup(
             [
